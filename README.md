@@ -4,7 +4,7 @@
 
 ## Overview
 
-WIP
+Text data was pulled from  [http://shakespeare.mit.edu/](http://shakespeare.mit.edu/).
 
 ## Usage
 
