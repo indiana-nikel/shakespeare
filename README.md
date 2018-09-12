@@ -38,7 +38,7 @@ The result will output a markdown file in the `output/` directory with 2000 char
 
 ## Results
 
-I have included 10 output files, all unique generations of Shakespeare. My favorite passage comes from [2018-09-11 17/28/44.089120_output](model/2018-09-11 17/28/44.089120_output):
+I have included 10 output files, all unique generations of Shakespeare. Here is my favorite passage that I have read so far:
 
 ```
 SCENE III. The same. A room in the fire.
