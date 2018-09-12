@@ -10,7 +10,7 @@ My approach to generating new works of Shakespeare was to use a recurrent neural
 
 In this model, I pass in all of Shakespeare's plays, pulled from [http://shakespeare.mit.edu/](http://shakespeare.mit.edu/).
 
-## Dependencies
+## Dependencies (pip install)
 
 ```
 keras
